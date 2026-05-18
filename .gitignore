@@ -1,0 +1,5 @@
+/crj-adapter
+/adapter
+*.test
+*.out
+.env

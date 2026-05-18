@@ -1,0 +1,6 @@
+.git
+.gitignore
+.dockerignore
+.gcloudignore
+README.md
+*_test.go
